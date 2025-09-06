@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+    <head>
+        <style>
+            body{
+                background-color:skyblue;
+                background-repeat:no repeat;
+                background-position:top;
+                background-image: url("black_ops_3.PNG")            
+                background-attachment:none;
+            }
+
+        </style>
+    </head>
+    <body>
+        this is a practice
+    </body>
+    </html>
